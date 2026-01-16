@@ -30,16 +30,17 @@ The trained model is saved using `joblib` and loaded directly into the API.
 
 ## 📂 Project Structure
 
-customer-purchase-ml-api/
-│
-├── app.py # Flask API
-├── customer_purchase_model.pkl # Trained ML model
-├── requirements.txt # Dependencies
-└── README.md
+customer-purchase-ml-api
 
+# Flask API
+app.py 
 
+# Trained ML model
+customer_purchase_model.pkl 
 
----
+# Dependencies
+requirements.txt
+
 
 ## ⚙️ Installation & Setup
 
